@@ -5,7 +5,7 @@
 <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" width="50" height="50"></a>
 <a href="https://www.java.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java logo" width="50" height="50"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript logo" width="50" height="50"></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js logo" width="50" height="50"></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Node.js_logo.svg" alt="Node.js logo" width="50" height="50"></a>
 <a href="https://www.kernel.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux logo" width="50" height="50"></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50" height="50"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# logo" width="50" height="50"></a>
