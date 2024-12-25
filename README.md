@@ -15,3 +15,5 @@
 <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP logo" width="50" height="50"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width="50" height="50"></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab logo" width="50" height="50"></a>
+<a href="https://dotnet.microsoft.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/.NET_Logo.svg" alt=".NET logo" width="50" height="50"></a>
+
