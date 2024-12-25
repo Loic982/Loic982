@@ -2,11 +2,10 @@
 
 ## 🛠️ Languages and Tools
 
-| Language | Skill Level |  
+
+| Language | Skill Level 
 |----------|------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ⭐⭐⭐⭐⭐⭐ 6/10 
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ⭐⭐⭐⭐⭐⭐⭐ 7/10 
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ⭐⭐⭐⭐ 4/10 
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ⭐⭐⭐ 3/10 
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ⭐⭐⭐⭐⭐⭐ 6/10 
+| Python   | ![Python](./path-to-your-image.png) | ⭐⭐⭐⭐⭐⭐⭐ 7/10 
+| Java     | ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) | ⭐⭐⭐⭐⭐ 5/10 
+| JavaScript | ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg) | ⭐⭐⭐⭐ 4/10 
 
