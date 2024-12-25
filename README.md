@@ -6,7 +6,7 @@
 <a href="https://www.java.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java logo" width="50" height="50"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript logo" width="50" height="50"></a>
 <a href="https://www.kernel.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux logo" width="50" height="50"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/MySQL_logo.png" alt="MySQL logo" width="50" height="50"></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/MySQL_logo.svg" alt="MySQL logo" width="50" height="50"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/C_Sharp_logo.png" alt="C# logo" width="50" height="50"></a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS logo" width="50" height="50"></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ logo" width="50" height="50"></a>
@@ -18,19 +18,3 @@
 <a href="https://www.xilinx.com/products/design-tools/vhdl.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/VHDL_logo.svg" alt="VHDL logo" width="50" height="50"></a>
 
 ---
-
-**Skill Levels**:
-- Python: 7/10
-- Java: 5/10
-- JavaScript:  4/10
-- Linux: 6/10
-- MySQL: 5/10
-- C#: 4/10
-- CSS: 5/10
-- C++: 3/10
-- C: 3/10
-- Assembly: 2/10
-- PHP: 4/10
-- HTML: 6/10
-- Matlab: 4/10
-- VHDL: 2/10
